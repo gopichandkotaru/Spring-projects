@@ -32,7 +32,7 @@ public class Demo1Application {
 
             departmentRepository.save(department);
 
-            System.out.println("Data saved successfully");
+            System.out.println("Data saved successfully, it is demo 1 application");
         };
     }
 }
